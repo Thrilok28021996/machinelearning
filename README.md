@@ -1,0 +1,1 @@
+It has different files such as GAN, Linear Regression, Logistic Regression and coding from the book Approaching (Almost) Any Machine Leanring Problem
